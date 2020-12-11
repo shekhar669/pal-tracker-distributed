@@ -14,7 +14,7 @@ buildscript {
         junitVersion = "4.12"
         okhttpVersion = "3.12.0"
         jsonPathVersion = "2.4.0"
-        springCloudVersion = "Greenwich.RELEASE"
+        springCloudVersion = "Greenwich.SR5"
         springCloudServicesClientLibrariesVersion = "2.1.5.RELEASE"
     }
 
